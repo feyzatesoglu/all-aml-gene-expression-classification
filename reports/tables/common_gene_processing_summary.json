@@ -1,0 +1,23 @@
+{
+  "common_gene_count": 5190,
+  "golub_train_shape": [
+    38,
+    5190
+  ],
+  "golub_test_shape": [
+    34,
+    5190
+  ],
+  "gse13159_shape": [
+    1292,
+    5190
+  ],
+  "gene_identifier": "Entrez Gene ID from downloaded GEO annotations",
+  "probe_aggregation": "Within-sample median across probes for each gene",
+  "golub_preprocessing": "Clip probes to [20, 16000], log2, then gene median",
+  "gse13159_preprocessing": "Supplied DQN3 values, then gene median",
+  "ambiguous_mapping_policy": "Exclude probes mapping to multiple gene IDs",
+  "control_probe_policy": "Exclude AFFX- probes",
+  "gene_order_identical": true,
+  "cross_dataset_scale_harmonization": false
+}

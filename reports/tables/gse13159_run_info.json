@@ -1,0 +1,23 @@
+{
+  "accession": "GSE13159",
+  "matrix_url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE13nnn/GSE13159/matrix/GSE13159_series_matrix.txt.gz",
+  "seed": 42,
+  "versions": {
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "matplotlib": "3.10.0",
+    "seaborn": "0.13.2",
+    "scikit-learn": "1.6.1",
+    "python": "3.13.18"
+  },
+  "additional_log_transform": false,
+  "pca_explained_variance_percent": [
+    9.967084884643555,
+    6.641925811767578
+  ],
+  "tsne_pca_variance_percent": 50.694305419921875,
+  "tsne_perplexity": 30,
+  "tsne_max_iter": 1500,
+  "preprocessing_note": "Source reports summarization and quantile normalization; exact origin of 0–1 scale remains unverified."
+}

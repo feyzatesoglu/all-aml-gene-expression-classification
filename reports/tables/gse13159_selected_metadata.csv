@@ -1,0 +1,1293 @@
+sample_id,original_class,class,target,sample_type,platform_id
+GSM329407,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329408,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329409,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329410,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329411,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329412,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329413,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329414,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329415,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329416,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329417,mature B-ALL with t(8;14),ALL,0,peripheral blood,GPL570
+GSM329418,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329419,mature B-ALL with t(8;14),ALL,0,bone marrow,GPL570
+GSM329420,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329421,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329422,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329423,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329424,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329425,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329426,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329427,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329428,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329429,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329430,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329431,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329432,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329433,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329434,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329435,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329436,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329437,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329438,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329439,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329440,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329441,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329442,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329443,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329444,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329445,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329446,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329447,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329448,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329449,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329450,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329451,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329452,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329453,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329454,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329455,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329456,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329457,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329458,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329459,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329460,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329461,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329462,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329463,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329464,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329465,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329466,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329467,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329468,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329469,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329470,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329471,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329472,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329473,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329474,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329475,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329476,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329477,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329478,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329479,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329480,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329481,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329482,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329483,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329484,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329485,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329486,Pro-B-ALL with t(11q23)/MLL,ALL,0,bone marrow,GPL570
+GSM329487,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329488,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329489,Pro-B-ALL with t(11q23)/MLL,ALL,0,peripheral blood,GPL570
+GSM329490,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329491,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329716,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329717,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329718,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329719,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329720,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329721,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329722,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329723,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329724,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329725,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329726,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329727,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329728,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329729,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329730,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329731,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329732,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329733,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329734,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329735,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329736,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329737,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329738,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329739,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329740,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329741,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329742,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329743,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329744,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329745,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329746,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329747,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329748,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329749,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329750,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329751,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329752,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329753,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329754,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329755,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329756,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329757,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329758,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329759,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329760,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329761,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329762,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329763,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329764,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329765,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329766,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329767,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329768,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329769,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329770,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329771,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329772,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329773,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329774,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329775,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329776,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329777,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329778,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329779,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329780,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329781,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329782,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329783,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329784,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329785,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329786,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329787,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329788,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329789,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329790,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329791,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329792,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329793,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329794,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329795,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329796,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329797,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329798,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329799,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329800,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329801,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329802,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329803,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329804,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329805,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329806,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329807,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329808,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329809,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329810,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329811,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329812,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329813,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329814,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329815,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329816,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329817,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329818,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329819,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329820,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329821,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329822,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329823,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329824,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329825,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329826,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329827,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329828,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329829,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329830,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329831,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329832,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329833,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329834,c-ALL/Pre-B-ALL with t(9;22),ALL,0,peripheral blood,GPL570
+GSM329835,c-ALL/Pre-B-ALL with t(9;22),ALL,0,bone marrow,GPL570
+GSM329836,T-ALL,ALL,0,bone marrow,GPL570
+GSM329837,T-ALL,ALL,0,bone marrow,GPL570
+GSM329838,T-ALL,ALL,0,bone marrow,GPL570
+GSM329839,T-ALL,ALL,0,bone marrow,GPL570
+GSM329840,T-ALL,ALL,0,bone marrow,GPL570
+GSM329841,T-ALL,ALL,0,bone marrow,GPL570
+GSM329842,T-ALL,ALL,0,bone marrow,GPL570
+GSM329843,T-ALL,ALL,0,peripheral blood,GPL570
+GSM329844,T-ALL,ALL,0,bone marrow,GPL570
+GSM329845,T-ALL,ALL,0,bone marrow,GPL570
+GSM329846,T-ALL,ALL,0,bone marrow,GPL570
+GSM329847,T-ALL,ALL,0,bone marrow,GPL570
+GSM329848,T-ALL,ALL,0,bone marrow,GPL570
+GSM329849,T-ALL,ALL,0,bone marrow,GPL570
+GSM329850,T-ALL,ALL,0,bone marrow,GPL570
+GSM329851,T-ALL,ALL,0,bone marrow,GPL570
+GSM329852,T-ALL,ALL,0,bone marrow,GPL570
+GSM329853,T-ALL,ALL,0,bone marrow,GPL570
+GSM329854,T-ALL,ALL,0,bone marrow,GPL570
+GSM329855,T-ALL,ALL,0,bone marrow,GPL570
+GSM329856,T-ALL,ALL,0,peripheral blood,GPL570
+GSM329857,T-ALL,ALL,0,bone marrow,GPL570
+GSM329858,T-ALL,ALL,0,bone marrow,GPL570
+GSM329859,T-ALL,ALL,0,bone marrow,GPL570
+GSM329860,T-ALL,ALL,0,bone marrow,GPL570
+GSM329861,T-ALL,ALL,0,bone marrow,GPL570
+GSM329862,T-ALL,ALL,0,bone marrow,GPL570
+GSM329863,T-ALL,ALL,0,bone marrow,GPL570
+GSM329864,T-ALL,ALL,0,bone marrow,GPL570
+GSM329865,T-ALL,ALL,0,bone marrow,GPL570
+GSM329866,T-ALL,ALL,0,bone marrow,GPL570
+GSM329867,T-ALL,ALL,0,bone marrow,GPL570
+GSM329868,T-ALL,ALL,0,bone marrow,GPL570
+GSM329869,T-ALL,ALL,0,bone marrow,GPL570
+GSM329870,T-ALL,ALL,0,bone marrow,GPL570
+GSM329871,T-ALL,ALL,0,bone marrow,GPL570
+GSM329872,T-ALL,ALL,0,bone marrow,GPL570
+GSM329873,T-ALL,ALL,0,bone marrow,GPL570
+GSM329874,T-ALL,ALL,0,bone marrow,GPL570
+GSM329875,T-ALL,ALL,0,bone marrow,GPL570
+GSM329876,T-ALL,ALL,0,bone marrow,GPL570
+GSM329877,T-ALL,ALL,0,bone marrow,GPL570
+GSM329878,T-ALL,ALL,0,bone marrow,GPL570
+GSM329879,T-ALL,ALL,0,bone marrow,GPL570
+GSM329880,T-ALL,ALL,0,bone marrow,GPL570
+GSM329881,T-ALL,ALL,0,bone marrow,GPL570
+GSM329882,T-ALL,ALL,0,bone marrow,GPL570
+GSM329883,T-ALL,ALL,0,bone marrow,GPL570
+GSM329884,T-ALL,ALL,0,bone marrow,GPL570
+GSM329885,T-ALL,ALL,0,bone marrow,GPL570
+GSM329886,T-ALL,ALL,0,bone marrow,GPL570
+GSM329887,T-ALL,ALL,0,bone marrow,GPL570
+GSM329888,T-ALL,ALL,0,bone marrow,GPL570
+GSM329889,T-ALL,ALL,0,bone marrow,GPL570
+GSM329890,T-ALL,ALL,0,bone marrow,GPL570
+GSM329891,T-ALL,ALL,0,bone marrow,GPL570
+GSM329892,T-ALL,ALL,0,bone marrow,GPL570
+GSM329893,T-ALL,ALL,0,bone marrow,GPL570
+GSM329894,T-ALL,ALL,0,bone marrow,GPL570
+GSM329895,T-ALL,ALL,0,bone marrow,GPL570
+GSM329896,T-ALL,ALL,0,bone marrow,GPL570
+GSM329897,T-ALL,ALL,0,bone marrow,GPL570
+GSM329898,T-ALL,ALL,0,bone marrow,GPL570
+GSM329899,T-ALL,ALL,0,bone marrow,GPL570
+GSM329900,T-ALL,ALL,0,bone marrow,GPL570
+GSM329901,T-ALL,ALL,0,bone marrow,GPL570
+GSM329902,T-ALL,ALL,0,bone marrow,GPL570
+GSM329903,T-ALL,ALL,0,peripheral blood,GPL570
+GSM329904,T-ALL,ALL,0,bone marrow,GPL570
+GSM329905,T-ALL,ALL,0,bone marrow,GPL570
+GSM329906,T-ALL,ALL,0,bone marrow,GPL570
+GSM329907,T-ALL,ALL,0,bone marrow,GPL570
+GSM329908,T-ALL,ALL,0,bone marrow,GPL570
+GSM329909,T-ALL,ALL,0,bone marrow,GPL570
+GSM329910,T-ALL,ALL,0,bone marrow,GPL570
+GSM329911,T-ALL,ALL,0,bone marrow,GPL570
+GSM329912,T-ALL,ALL,0,bone marrow,GPL570
+GSM329913,T-ALL,ALL,0,bone marrow,GPL570
+GSM329914,T-ALL,ALL,0,bone marrow,GPL570
+GSM329915,T-ALL,ALL,0,bone marrow,GPL570
+GSM329916,T-ALL,ALL,0,bone marrow,GPL570
+GSM329917,T-ALL,ALL,0,bone marrow,GPL570
+GSM329918,T-ALL,ALL,0,bone marrow,GPL570
+GSM329919,T-ALL,ALL,0,bone marrow,GPL570
+GSM329920,T-ALL,ALL,0,bone marrow,GPL570
+GSM329921,T-ALL,ALL,0,bone marrow,GPL570
+GSM329922,T-ALL,ALL,0,bone marrow,GPL570
+GSM329923,T-ALL,ALL,0,bone marrow,GPL570
+GSM329924,T-ALL,ALL,0,bone marrow,GPL570
+GSM329925,T-ALL,ALL,0,bone marrow,GPL570
+GSM329926,T-ALL,ALL,0,bone marrow,GPL570
+GSM329927,T-ALL,ALL,0,bone marrow,GPL570
+GSM329928,T-ALL,ALL,0,bone marrow,GPL570
+GSM329929,T-ALL,ALL,0,bone marrow,GPL570
+GSM329930,T-ALL,ALL,0,bone marrow,GPL570
+GSM329931,T-ALL,ALL,0,bone marrow,GPL570
+GSM329932,T-ALL,ALL,0,bone marrow,GPL570
+GSM329933,T-ALL,ALL,0,bone marrow,GPL570
+GSM329934,T-ALL,ALL,0,bone marrow,GPL570
+GSM329935,T-ALL,ALL,0,bone marrow,GPL570
+GSM329936,T-ALL,ALL,0,bone marrow,GPL570
+GSM329937,T-ALL,ALL,0,bone marrow,GPL570
+GSM329938,T-ALL,ALL,0,bone marrow,GPL570
+GSM329939,T-ALL,ALL,0,bone marrow,GPL570
+GSM329940,T-ALL,ALL,0,bone marrow,GPL570
+GSM329941,T-ALL,ALL,0,bone marrow,GPL570
+GSM329942,T-ALL,ALL,0,bone marrow,GPL570
+GSM329943,T-ALL,ALL,0,bone marrow,GPL570
+GSM329944,T-ALL,ALL,0,bone marrow,GPL570
+GSM329945,T-ALL,ALL,0,bone marrow,GPL570
+GSM329946,T-ALL,ALL,0,bone marrow,GPL570
+GSM329947,T-ALL,ALL,0,bone marrow,GPL570
+GSM329948,T-ALL,ALL,0,bone marrow,GPL570
+GSM329949,T-ALL,ALL,0,bone marrow,GPL570
+GSM329950,T-ALL,ALL,0,bone marrow,GPL570
+GSM329951,T-ALL,ALL,0,bone marrow,GPL570
+GSM329952,T-ALL,ALL,0,bone marrow,GPL570
+GSM329953,T-ALL,ALL,0,bone marrow,GPL570
+GSM329954,T-ALL,ALL,0,bone marrow,GPL570
+GSM329955,T-ALL,ALL,0,bone marrow,GPL570
+GSM329956,T-ALL,ALL,0,bone marrow,GPL570
+GSM329957,T-ALL,ALL,0,bone marrow,GPL570
+GSM329958,T-ALL,ALL,0,peripheral blood,GPL570
+GSM329959,T-ALL,ALL,0,bone marrow,GPL570
+GSM329960,T-ALL,ALL,0,bone marrow,GPL570
+GSM329961,T-ALL,ALL,0,bone marrow,GPL570
+GSM329962,T-ALL,ALL,0,bone marrow,GPL570
+GSM329963,T-ALL,ALL,0,bone marrow,GPL570
+GSM329964,T-ALL,ALL,0,bone marrow,GPL570
+GSM329965,T-ALL,ALL,0,bone marrow,GPL570
+GSM329966,T-ALL,ALL,0,bone marrow,GPL570
+GSM329967,T-ALL,ALL,0,bone marrow,GPL570
+GSM329968,T-ALL,ALL,0,bone marrow,GPL570
+GSM329969,T-ALL,ALL,0,bone marrow,GPL570
+GSM329970,T-ALL,ALL,0,bone marrow,GPL570
+GSM329971,T-ALL,ALL,0,bone marrow,GPL570
+GSM329972,T-ALL,ALL,0,bone marrow,GPL570
+GSM329973,T-ALL,ALL,0,bone marrow,GPL570
+GSM329974,T-ALL,ALL,0,bone marrow,GPL570
+GSM329975,T-ALL,ALL,0,bone marrow,GPL570
+GSM329976,T-ALL,ALL,0,bone marrow,GPL570
+GSM329977,T-ALL,ALL,0,bone marrow,GPL570
+GSM329978,T-ALL,ALL,0,bone marrow,GPL570
+GSM329979,T-ALL,ALL,0,bone marrow,GPL570
+GSM329980,T-ALL,ALL,0,bone marrow,GPL570
+GSM329981,T-ALL,ALL,0,bone marrow,GPL570
+GSM329982,T-ALL,ALL,0,bone marrow,GPL570
+GSM329983,T-ALL,ALL,0,bone marrow,GPL570
+GSM329984,T-ALL,ALL,0,bone marrow,GPL570
+GSM329985,T-ALL,ALL,0,bone marrow,GPL570
+GSM329986,T-ALL,ALL,0,bone marrow,GPL570
+GSM329987,T-ALL,ALL,0,bone marrow,GPL570
+GSM329988,T-ALL,ALL,0,bone marrow,GPL570
+GSM329989,T-ALL,ALL,0,bone marrow,GPL570
+GSM329990,T-ALL,ALL,0,bone marrow,GPL570
+GSM329991,T-ALL,ALL,0,bone marrow,GPL570
+GSM329992,T-ALL,ALL,0,bone marrow,GPL570
+GSM329993,T-ALL,ALL,0,bone marrow,GPL570
+GSM329994,T-ALL,ALL,0,bone marrow,GPL570
+GSM329995,T-ALL,ALL,0,bone marrow,GPL570
+GSM329996,T-ALL,ALL,0,bone marrow,GPL570
+GSM329997,T-ALL,ALL,0,bone marrow,GPL570
+GSM329998,T-ALL,ALL,0,bone marrow,GPL570
+GSM329999,T-ALL,ALL,0,bone marrow,GPL570
+GSM330000,T-ALL,ALL,0,bone marrow,GPL570
+GSM330001,T-ALL,ALL,0,bone marrow,GPL570
+GSM330002,T-ALL,ALL,0,bone marrow,GPL570
+GSM330003,T-ALL,ALL,0,bone marrow,GPL570
+GSM330004,T-ALL,ALL,0,bone marrow,GPL570
+GSM330005,T-ALL,ALL,0,bone marrow,GPL570
+GSM330006,T-ALL,ALL,0,bone marrow,GPL570
+GSM330007,T-ALL,ALL,0,bone marrow,GPL570
+GSM330008,T-ALL,ALL,0,bone marrow,GPL570
+GSM330009,T-ALL,ALL,0,bone marrow,GPL570
+GSM330010,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330011,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330012,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330013,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330014,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330015,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330016,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330017,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330018,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330019,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330020,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330021,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330022,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330023,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330024,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330025,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330026,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330027,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330028,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330029,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330030,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330031,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330032,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330033,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330034,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330035,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330036,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330037,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330038,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330039,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330040,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330041,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330042,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330043,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330044,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330045,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330046,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330047,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330048,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330049,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330050,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330051,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330052,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330053,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330054,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330055,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330056,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330057,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330058,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330059,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330060,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330061,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330062,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330063,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330064,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330065,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330066,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330067,ALL with t(12;21),ALL,0,bone marrow,GPL570
+GSM330068,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330069,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330070,ALL with t(1;19),ALL,0,peripheral blood,GPL570
+GSM330071,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330072,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330073,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330074,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330075,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330076,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330077,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330078,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330079,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330080,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330081,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330082,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330083,ALL with t(1;19),ALL,0,peripheral blood,GPL570
+GSM330084,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330085,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330086,ALL with t(1;19),ALL,0,peripheral blood,GPL570
+GSM330087,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330088,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330089,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330090,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330091,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330092,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330093,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330094,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330095,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330096,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330097,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330098,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330099,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330100,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330101,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330102,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330103,ALL with t(1;19),ALL,0,bone marrow,GPL570
+GSM330104,ALL with hyperdiploid karyotype,ALL,0,peripheral blood,GPL570
+GSM330105,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330106,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330107,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330108,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330109,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330110,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330111,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330112,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330113,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330114,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330115,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330116,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330117,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330118,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330119,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330120,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330121,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330122,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330123,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330124,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330125,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330126,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330127,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330128,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330129,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330130,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330131,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330132,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330133,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330134,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330135,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330136,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330137,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330138,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330139,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330140,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330141,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330142,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330143,ALL with hyperdiploid karyotype,ALL,0,bone marrow,GPL570
+GSM330144,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330145,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330146,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330147,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330148,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330149,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330150,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330151,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330152,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330153,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330154,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330155,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330156,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330157,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330158,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330159,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330160,c-ALL/Pre-B-ALL without t(9;22),ALL,0,peripheral blood,GPL570
+GSM330161,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330162,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330163,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330164,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330165,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330166,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330167,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330168,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330169,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330170,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330171,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330172,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330173,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330174,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330175,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330176,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330177,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330178,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330179,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330180,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330181,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330182,c-ALL/Pre-B-ALL without t(9;22),ALL,0,peripheral blood,GPL570
+GSM330183,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330184,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330185,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330186,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330187,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330188,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330189,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330190,c-ALL/Pre-B-ALL without t(9;22),ALL,0,peripheral blood,GPL570
+GSM330191,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330192,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330193,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330194,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330195,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330196,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330197,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330198,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330199,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330200,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330201,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330202,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330203,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330204,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330205,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330206,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330207,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330208,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330209,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330210,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330211,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330212,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330213,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330214,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330215,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330216,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330217,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330218,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330219,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330220,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330221,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330222,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330223,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330224,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330225,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330226,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330227,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330228,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330229,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330230,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330231,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330232,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330233,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330234,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330235,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330236,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330237,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330238,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330239,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330240,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330241,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330242,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330243,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330244,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330245,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330246,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330247,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330248,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330249,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330250,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330251,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330252,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330253,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330254,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330255,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330256,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330257,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330258,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330259,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330260,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330261,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330262,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330263,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330264,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330265,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330266,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330267,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330268,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330269,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330270,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330271,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330272,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330273,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330274,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330275,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330276,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330277,c-ALL/Pre-B-ALL without t(9;22),ALL,0,peripheral blood,GPL570
+GSM330278,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330279,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330280,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330281,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330282,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330283,c-ALL/Pre-B-ALL without t(9;22),ALL,0,peripheral blood,GPL570
+GSM330284,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330285,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330286,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330287,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330288,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330289,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330290,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330291,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330292,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330293,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330294,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330295,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330296,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330297,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330298,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330299,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330300,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330301,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330302,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330303,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330304,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330305,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330306,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330307,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330308,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330309,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330310,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330317,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330318,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330319,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330320,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330321,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330322,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330323,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330324,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330325,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330326,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330327,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330328,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330329,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330330,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330331,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330332,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330333,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330334,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330335,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330336,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330337,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330338,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330339,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330340,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330341,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330342,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330343,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330344,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330345,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330346,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330347,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330348,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330349,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330350,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330351,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330352,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330353,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330354,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330355,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330356,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330357,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330358,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330359,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330360,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330361,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330362,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330363,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330364,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330365,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330366,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330367,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330368,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330369,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330370,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330371,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330372,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330373,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330374,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330375,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330376,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330377,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330378,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330379,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330380,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330381,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330382,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330383,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330384,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330385,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330386,c-ALL/Pre-B-ALL without t(9;22),ALL,0,bone marrow,GPL570
+GSM330387,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330388,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330389,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330390,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330391,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330392,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330393,AML with t(8;21),AML,1,peripheral blood,GPL570
+GSM330394,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330395,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330396,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330397,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330398,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330399,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330400,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330401,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330402,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330403,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330404,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330405,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330406,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330407,AML with t(8;21),AML,1,peripheral blood,GPL570
+GSM330408,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330409,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330410,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330411,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330412,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330413,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330414,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330415,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330416,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330417,AML with t(8;21),AML,1,peripheral blood,GPL570
+GSM330418,AML with t(8;21),AML,1,peripheral blood,GPL570
+GSM330419,AML with t(8;21),AML,1,peripheral blood,GPL570
+GSM330420,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330421,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330422,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330423,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330424,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330425,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330426,AML with t(8;21),AML,1,bone marrow,GPL570
+GSM330427,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330428,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330429,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330430,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330431,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330432,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330433,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330434,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330435,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330436,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330437,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330438,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330439,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330440,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330441,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330442,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330443,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330444,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330445,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330446,AML with t(15;17),AML,1,peripheral blood,GPL570
+GSM330447,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330448,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330449,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330450,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330451,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330452,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330453,AML with t(15;17),AML,1,peripheral blood,GPL570
+GSM330454,AML with t(15;17),AML,1,peripheral blood,GPL570
+GSM330455,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330456,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330457,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330458,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330459,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330460,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330461,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330462,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330463,AML with t(15;17),AML,1,bone marrow,GPL570
+GSM330464,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330465,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330466,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330467,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330468,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330469,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330470,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330471,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330472,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330473,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330474,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330475,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330476,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330477,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330478,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330479,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330480,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330481,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330482,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330483,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330484,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330485,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330486,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330487,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330488,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330489,AML with inv(16)/t(16;16),AML,1,peripheral blood,GPL570
+GSM330490,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330491,AML with inv(16)/t(16;16),AML,1,bone marrow,GPL570
+GSM330492,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330493,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330494,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330495,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330496,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330497,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330498,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330499,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330500,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330501,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330502,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330503,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330504,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330505,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330506,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330507,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330508,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330509,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330510,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330511,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330512,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330513,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330514,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330515,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330516,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330517,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330518,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330519,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330520,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330521,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330522,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330523,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330524,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330525,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330526,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330527,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330528,AML with t(11q23)/MLL,AML,1,peripheral blood,GPL570
+GSM330529,AML with t(11q23)/MLL,AML,1,bone marrow,GPL570
+GSM330530,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330531,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330532,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330533,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330534,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330535,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330536,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330537,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330538,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330539,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330540,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330541,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330542,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330543,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330544,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330545,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330546,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330547,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330548,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330549,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330550,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330551,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330552,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330553,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330554,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330555,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330556,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330557,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330558,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330559,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330560,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330561,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330562,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330563,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330564,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330565,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330566,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330567,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330568,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330569,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330570,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330571,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330572,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330573,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330574,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330575,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330576,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330577,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330578,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330579,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330580,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330581,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330582,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330583,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330584,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330585,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330586,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330587,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330588,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330589,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330590,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330591,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330592,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330593,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330594,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330595,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330596,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330597,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330598,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330599,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330600,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330601,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330602,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330603,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330604,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330605,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330606,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330607,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330608,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330609,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330610,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330611,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330612,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330613,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330614,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330615,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330616,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330617,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330618,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330619,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330620,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330621,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330622,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330623,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330624,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330625,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330626,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330627,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330628,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330629,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330630,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330631,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330632,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330633,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330634,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330635,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330636,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330637,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330638,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330639,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330640,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330641,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330642,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330643,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330644,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330645,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330646,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330647,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330648,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330649,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330650,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330651,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330652,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330653,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330654,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330655,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330656,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330657,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330658,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330659,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330660,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330661,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330662,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330663,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330664,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330665,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330666,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330667,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330668,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330669,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330670,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330671,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330672,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330673,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330674,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330675,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330676,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330677,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330678,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330679,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330680,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330681,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330682,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330683,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330684,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330685,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330686,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330687,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330688,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330689,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330690,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330691,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330692,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330693,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330694,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330695,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330696,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330697,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330698,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330699,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330700,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330701,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330702,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330703,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330704,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330705,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330706,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330707,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330708,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330709,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330710,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330711,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330712,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330713,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330714,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330715,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330716,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330717,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330718,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330719,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330720,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330721,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330722,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330723,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330724,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330725,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330726,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330727,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330728,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330729,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330730,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330731,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330732,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330733,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330734,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330735,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330736,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330737,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330738,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330739,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330740,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330741,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330742,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330743,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330744,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330745,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330746,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330747,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330748,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330749,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330750,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330751,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330752,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330753,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330754,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330755,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330756,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330757,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330758,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330759,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330760,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330761,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330762,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330763,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330764,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330765,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330766,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330767,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330768,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330769,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330770,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330771,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330772,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330773,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330774,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330775,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330776,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330777,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330778,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330779,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330780,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330781,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330782,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330783,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330784,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330785,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330786,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330787,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330788,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330789,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330790,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330791,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330792,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330793,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330794,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330795,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330796,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330797,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330798,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330799,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330800,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330801,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330802,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330803,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330804,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330805,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330806,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330807,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330808,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330809,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330810,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330811,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330812,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330813,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330814,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330815,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330816,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330817,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330818,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330819,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330820,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330821,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330822,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330823,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330824,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330825,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330826,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330827,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330828,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330829,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330830,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330831,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330832,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330833,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330834,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330835,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330836,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330837,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330838,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330839,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330840,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330841,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330842,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330843,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330844,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330845,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330846,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330847,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330848,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330849,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330850,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330851,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330852,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330853,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330854,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330855,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330856,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330857,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330858,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330859,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330860,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330861,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330862,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330863,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330864,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330865,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330866,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330867,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330868,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330869,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330870,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330871,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330872,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330873,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330874,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330875,AML with normal karyotype + other abnormalities,AML,1,peripheral blood,GPL570
+GSM330876,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330877,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330878,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330879,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330880,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330881,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330882,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330883,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330884,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330885,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330886,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330887,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330888,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330889,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330890,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330891,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330892,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330893,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330894,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330895,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330896,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330897,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330898,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330899,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330900,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330901,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330902,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330903,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330904,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330905,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330906,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330907,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330908,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330909,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330910,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330911,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330912,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330913,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330914,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330915,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330916,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330917,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330918,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330919,AML complex aberrant karyotype,AML,1,peripheral blood,GPL570
+GSM330920,AML with normal karyotype + other abnormalities,AML,1,bone marrow,GPL570
+GSM330921,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330922,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330923,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330924,AML complex aberrant karyotype,AML,1,peripheral blood,GPL570
+GSM330925,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330926,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330927,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
+GSM330928,AML complex aberrant karyotype,AML,1,bone marrow,GPL570
